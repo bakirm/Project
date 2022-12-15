@@ -13,3 +13,4 @@ Included nuget packages:
 5. Slugify: https://www.nuget.org/packages/Slugify/
 
 App used: Microsoft Asp.net Core application
+IDE used: Visual Studio Community Edition
